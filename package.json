@@ -1,0 +1,25 @@
+{
+  "name": "tareanpm",
+  "version": "1.0.0",
+  "description": "Mi primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "env FORCE_COLOR=1 node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalEric/tarea"
+  },
+  "author": "Carrillo Alejos Eric",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalEric/tarea"
+  },
+  "homepage": "https://github.com/CalEric/tarea",
+  "dependencies": {
+    "express": "4.17.1",
+    "http": "0.0.0"
+    .
+  }
+}
